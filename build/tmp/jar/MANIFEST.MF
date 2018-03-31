@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: Gradle Jar File Example
+Implementation-Version: 1.0
+Main-Class: main.Stock_Show
+Class-Path:  lib/fastjson-1.2.2.jar lib/jcommon-1.0.23.jar lib/jfreech
+ art-1.0.19.jar lib/mongodb-driver-3.2.2.jar lib/mongodb-driver-core-3
+ .2.2.jar lib/bson-3.2.2.jar
+

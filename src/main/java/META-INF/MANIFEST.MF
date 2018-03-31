@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: bson-3.2.2.jar fastjson-1.2.2.jar jcommon-1.0.23.jar jfree
+ chart-1.0.19.jar mongodb-driver-3.2.2.jar mongodb-driver-core-3.2.2.j
+ ar
+Main-Class: main.Stock_Show
+

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="StockTool_main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StockTool_main_jar</output-path>
+    <root id="root">
+      <element id="archive" name="StockTool_main.jar">
+        <element id="module-output" name="StockTool_main" />
+      </element>
+      <element id="module-output" name="StockTool" />
+    </root>
+  </artifact>
+</component>
